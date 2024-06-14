@@ -1,0 +1,54 @@
+# Java build directory
+/bin/
+/build/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/target/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+**/build/
+
+# Class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ
+/bluej.properties
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.swp
+
+# Environment files
+.env
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+
+
+# Ignore pdf files 
+*.pdf 
