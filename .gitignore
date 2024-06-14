@@ -44,10 +44,9 @@ Thumbs.db
 .env
 
 # Package Files
+*.jar
 *.war
 *.ear
-
-
 
 # Ignore pdf files 
 *.pdf 
